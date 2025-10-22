@@ -24,3 +24,9 @@ Thumbs.db
 *.tmp
 *.log
 
+# Data files (results are stored in S3)
+*.tsv
+*.csv
+results/*.tsv
+results/*.csv
+
