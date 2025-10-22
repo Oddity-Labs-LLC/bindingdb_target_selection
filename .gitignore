@@ -30,3 +30,6 @@ Thumbs.db
 results/*.tsv
 results/*.csv
 
+# Tool version files
+.tool-versions
+
