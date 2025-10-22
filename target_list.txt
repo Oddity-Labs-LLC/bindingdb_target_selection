@@ -1,0 +1,31 @@
+# RAR-Related Targets for BindingDB Query
+# This list contains all target names used in the all_rar_targets.sql query
+
+Retinoic acid receptor alpha
+Retinoic acid receptor beta
+Retinoic acid receptor gamma
+Retinoic acid receptor, gamma
+Retinoic acid receptor RXR-alpha
+Retinoic acid receptor RXR-gamma
+Retinoic acid receptor alpha [200-419]
+Retinoic acid receptor beta [200-419]
+Retinoic acid receptor gamma [183-417]
+Retinoic acid receptor RXR-alpha/alpha
+Retinoic acid receptor RXR-alpha/gamma
+Retinoic acid receptor, alpha, isoform CRA_b
+Retinoic acid receptor alpha/Retinoid X receptor alpha
+Retinoic acid receptor RXR-alpha/Vitamin D3 receptor
+Retinoid X receptor gamma/retinoic acid receptor alpha
+Oxysterols receptor LXR-alpha/Retinoic acid receptor RXR-alpha
+Retinoic acid receptor RXR-alpha/Oxysterols receptor LXR-beta
+Retinoic acid receptor RXR-alpha/Thyroid hormone receptor alpha
+Retinoic acid receptor RXR-alpha/Thyroid hormone receptor beta
+Peroxisome proliferator-activated receptor gamma/Retinoic acid receptor RXR-alpha
+Retinoic acid-related nuclear receptor gamma t (RORgammat)
+Retinoic acid-related nuclear receptor gamma t (ROR t)
+Nuclear receptor subfamily 4 group A member 2/Retinoic acid receptor RXR-alpha
+Retinoic acid receptor RXR-alpha [225-462]/Thyroid hormone receptor beta [148-410]
+Retinoic acid receptors gamma / alpha
+Cellular retinoic acid-binding protein 1
+Cellular retinoic acid-binding protein 2
+
